@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path path="." name="external_storage_root" />
+    <cache-path name="internal_cache" path="."/>
+    <external-files-path name="tt_external_files_download" path="Download" />
+</paths>
